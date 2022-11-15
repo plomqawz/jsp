@@ -1,0 +1,22 @@
+[
+	{
+		"memberNumber" : "m001",
+		 "irum" : "goroman",
+		 "picture" : "goroman.png"
+	},
+	{
+		"memberNumber" : "m002",
+		 "irum" : "goroman1",
+		 "picture" : "goroman1.png"
+	},
+	{
+		"memberNumber" : "m003",
+		 "irum" : "goroman2",
+		 "picture" : "goroman2.png"
+	},
+	{
+		"memberNumber" : "m004",
+		 "irum" : "goroman3",
+		 "picture" : "goroman3.png"
+	}
+]
